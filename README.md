@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm MANIMARAN</h1>
 <h3 align="center">A passionate Software developer from Coimbatore</h3>
 
-<!-- ✅ Fixed image tag below -->
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=coder+gif&sca_esv=a041a287eb5789bb&udm=2&biw=1536&bih=730&sxsrf=AHTn8zp3bNuGJ7GNEGY0NFuZfSGtXGexSw%3A1743752924198&ei=3I7vZ7zvC-aPseMPsMKFkAw&ved=0ahUKEwi8zf3s8b2MAxXmR2wGHTBhAcIQ4dUDCBE&uact=5&oq=coder+gif&gs_lp=EgNpbWciCWNvZGVyIGdpZjIFEAAYgAQyBRAAGIAEMgUQABiABDIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCkjVDFAaWPMKcAF4AJABAJgBbaABnAOqAQMxLjO4AQPIAQD4AQGYAgWgAtUDwgINEAAYgAQYsQMYQxiKBcICBhAAGAcYHsICCBAAGAcYChgewgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBmAMAiAYBkgcDMS40oAfNFLIHAzAuNLgHxQM&sclient=img#vhid=zhjSEq0Xd_DH7M&vssid=mosaic" />
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=manimaran24&label=Profile%20views&color=0e75b6&style=flat" alt="manimaran24" /> 
